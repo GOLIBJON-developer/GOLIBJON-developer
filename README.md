@@ -40,8 +40,7 @@ I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitati
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-- 📈 &nbsp; 
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+
 <br/>
 
 <a href="https://github.com/GOLIBJON-developer">
