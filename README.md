@@ -63,7 +63,8 @@ I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitati
  [My Email is : sultonmurodovgolib@gmail.com]
 
 <br/>
-----
 
-⭐️⭐️⭐️⭐️⭐️ From [GOLIBJON-developer](https://github.com/GOLIBJON-developer)
+
+⭐️⭐️⭐️⭐️⭐️
+For [GOLIBJON-developer](https://github.com/GOLIBJON-developer)
 
