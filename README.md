@@ -65,5 +65,5 @@ I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitati
 <br/>
 ----
 
-⭐️ From [GOLIBJON-developer](https://github.com/GOLIBJON-developer)
+⭐️⭐️⭐️⭐️⭐️ From [GOLIBJON-developer](https://github.com/GOLIBJON-developer)
 
