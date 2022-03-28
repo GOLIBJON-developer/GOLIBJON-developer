@@ -1,10 +1,12 @@
 
-<h2> Hey there! I'm Golibjon.</h2>
+<h2 align="center"> Hey there! I'm Golibjon.</h2>
 
 <p align="center">
   
    <img 
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png" width="100%" title="Intro Card" alt="Intro Card"> 
+   <img 
+      src="https://synergytop.com/wp-content/uploads/2021/07/MERN-1.png" width="100%" title="Intro Card" alt="Intro Card"> 
 </p>
 
 
