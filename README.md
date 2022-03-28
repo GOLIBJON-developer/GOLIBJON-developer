@@ -10,7 +10,7 @@
 </p>
 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3 align="center"> 👨🏻‍💻 &nbsp;About Me </h3>
 
 I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
 
