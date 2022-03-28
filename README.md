@@ -54,9 +54,9 @@ I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitati
 
 
 ### You can find in me in the web 🌍
-[<img align="left" color="white" alt="https://golibjon-developer.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" color="white" alt="golibjon-developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" color="white" alt="golibjonsultonmurodov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+<img align="left" color="white" alt="https://golibjon-developer.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> [My Web Site ](https://golibjon-developer.github.io)
+<img align="left" color="white" alt="golibjon-developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [My LinkedIn](https://www.linkedin.com/in/golibjon-developer)
+<img align="left" color="white" alt="golibjonsultonmurodov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [My Instagramm](https://www.instagram.com/golibjonsultonmurodov)
 
 
 <br/>
