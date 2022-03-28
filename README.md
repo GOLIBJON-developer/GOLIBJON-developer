@@ -1,10 +1,10 @@
 
 <h2> Hey there! I'm Golibjon.</h2>
 
-<!--<p align="center">
+<p align="center">
   <img 
-<!--        src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card"> 
-</p>-->
+      src="https://res.cloudinary.com/practicaldev/image/fetch/s--WPQ75f2s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg" width="100%" title="Intro Card" alt="Intro Card"> 
+</p>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
