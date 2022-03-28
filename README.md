@@ -1,5 +1,7 @@
 
 <h2 align="center"> Hey there! I'm Golibjon.</h2>
+<br/>
+<br/>
 
 <p align="center">
   
@@ -9,8 +11,10 @@
       src="https://synergytop.com/wp-content/uploads/2021/07/MERN-1.png" width="100%" title="Intro Card" alt="Intro Card">  -->
 </p>
 
-
+<br/>
+<br/>
 <h3 align="center"> 👨🏻‍💻 &nbsp;About Me </h3>
+<br/>
 
 I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
 
