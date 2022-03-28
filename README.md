@@ -60,7 +60,7 @@ I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitati
 <br/>
 <img align="left" color="white" alt="golibjonsultonmurodov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [My Instagramm](https://www.instagram.com/golibjonsultonmurodov)
 <br/>
- [My Email is : sultonmurodovgolib@gmail.com]
+[My Email is : sultonmurodovgolib@gmail.com]
 
 <br/>
 
