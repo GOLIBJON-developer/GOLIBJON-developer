@@ -4,6 +4,8 @@
 <p align="center">
   <img 
       src="https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png" width="100%" title="Intro Card" alt="Intro Card"> 
+   <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png" width="100%" title="Intro Card" alt="Intro Card"> 
 </p>
 
 
