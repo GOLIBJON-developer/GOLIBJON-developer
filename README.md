@@ -59,7 +59,8 @@ I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitati
 <img align="left" color="white" alt="golibjon-developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [My LinkedIn](https://www.linkedin.com/in/golibjon-developer)
 <br/>
 <img align="left" color="white" alt="golibjonsultonmurodov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [My Instagramm](https://www.instagram.com/golibjonsultonmurodov)
-
+<br/>
+<img align="left" color="white" alt="golibjonsultonmurodov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" /> [My Email is : sultonmurodovgolib@gmail.com]
 
 <br/>
 ----
