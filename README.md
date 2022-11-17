@@ -61,7 +61,7 @@ I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitati
 
 
 ### You can find in me in the web 🌍
-<!-- <img align="left" color="white" alt="https://golibjon-dev.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> [My Web Site ](https://golibjon-dev.netlify.app/) -->
+<img align="left" color="white" alt="https://golibjon-dev.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> [My Web Site ](https://golibjon-dev.netlify.app/)
 <br/>
 <img align="left" color="white" alt="https://golibjon-developer.github.io/golibjon-dev/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[My Web Site ](https://golibjon-developer.github.io/golibjon-dev/)
 <br/>
