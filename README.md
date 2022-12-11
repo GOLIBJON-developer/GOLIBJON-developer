@@ -12,7 +12,6 @@
 </p> -->
 
 <br/>
-<br/>
 <h3 align="center"> 👨🏻‍💻 &nbsp;About Me </h3>
 <br/>
 
