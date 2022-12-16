@@ -60,7 +60,9 @@ I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitati
 
 
 ### You can find in me in the web 🌍
-<img align="left" color="white" alt="https://golibjon-developer.github.io/golibjon-dev/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[My Web Site ](https://golibjon-developer.github.io/golibjon-dev/)
+<img align="left" color="white" alt="https://golibjon.vercel.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[My Web Site ](https://golibjon.vercel.app/)
+<br/>
+<img align="left" color="white" alt="https://golibjon-developer.github.io/golibjon-dev/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[My Old Web Site ](https://golibjon-developer.github.io/golibjon-dev/)
 <br/>
 <img align="left" color="white" alt="golibjon-developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[My LinkedIn](https://www.linkedin.com/in/golibjon-developer)
 <br/>
