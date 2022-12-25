@@ -56,8 +56,9 @@ I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitati
 <h3  align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 
-<h3  align="center">  You can find in me in the web 🌍 </h3>
-###
+<h3  align="center"></h3>
+###   You can find in me in the web 🌍 
+
 <img align="left" color="#ffffff" alt="https://golibjon.vercel.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[My Web Site ](https://golibjon.vercel.app/)
 <br/>
 <img align="left" color="white" alt="golibjon-developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[My LinkedIn](https://www.linkedin.com/in/golibjon-developer)
