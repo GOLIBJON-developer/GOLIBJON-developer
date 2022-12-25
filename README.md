@@ -49,7 +49,7 @@ I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitati
 <br/>
 
 <a href="https://github.com/GOLIBJON-developer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOLIBJON-developer&theme=buefy&show_icons=true" />  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOLIBJON-developer&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOLIBJON-developer&theme=buefy&show_icons=true" />          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOLIBJON-developer&theme=buefy&layout=compact" />
 </a>
 <br/>
 
