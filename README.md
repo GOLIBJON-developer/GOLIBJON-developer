@@ -46,12 +46,11 @@ I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitati
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-<!-- <br/>
+<br/>
 
 <a href="https://github.com/GOLIBJON-developer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOLIBJON-developer&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOLIBJON-developer&theme=buefy&layout=compact" />
-</a> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOLIBJON-developer&theme=buefy&show_icons=true" /><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOLIBJON-developer&theme=buefy&layout=compact" />
+</a>
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
@@ -60,12 +59,12 @@ I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitati
 ### You can find in me in the web 🌍
 <img align="left" color="#ffffff" alt="https://golibjon.vercel.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[My Web Site ](https://golibjon.vercel.app/)
 <br/>
-<!-- <img align="left" color="white" alt="https://golibjon-developer.github.io/golibjon-dev/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[My Old Web Site ](https://golibjon-developer.github.io/golibjon-dev/)
-<br/> -->
 <img align="left" color="white" alt="golibjon-developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[My LinkedIn](https://www.linkedin.com/in/golibjon-developer)
 <br/>
 <img align="left" color="white" alt="golibjonsultonmurodov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[My Instagramm](https://www.instagram.com/iceberg_ceo/)
 <br/>
+<!-- <img align="left" color="white" alt="https://golibjon-developer.github.io/golibjon-dev/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[My Old Web Site ](https://golibjon-developer.github.io/golibjon-dev/)
+<br/> -->
 <br/>
 My Email is : sultonmurodovgolib@gmail.com
 
