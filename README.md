@@ -46,14 +46,12 @@ I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitati
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-
-<br/>
+<!-- <br/>
 
 <a href="https://github.com/GOLIBJON-developer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOLIBJON-developer&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOLIBJON-developer&theme=buefy&layout=compact" />
-</a>
-
+</a> -->
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
