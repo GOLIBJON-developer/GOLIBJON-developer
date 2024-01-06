@@ -2,14 +2,12 @@
 <h2 align="center"> Hey there! I'm Golibjon.</h2>
 <br/>
 <br/>
-
-<p align="center">
-  
+<!--
+<p align="center">  
    <img 
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png" width="100%" title="Intro Card" alt="Intro Card"> 
-  
 </p>
-
+-->
 <br/>
 <h3 align="center"> 👨🏻‍💻 &nbsp;About Me </h3>
 <br/>
